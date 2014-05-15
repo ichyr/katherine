@@ -4,10 +4,17 @@
 
 І
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kohaytesya, ceja
 =======
 Kohaytesya, sourcils,
 Kohaytesya, ceja
+=======
+Line1
+Kohaytesya, browed,
+Line2
+Kohaytesya, sourcils,
+>>>>>>> fdab6c9812c8da89d5c8727aa364b001d4a913e9
 >>>>>>> 04c7e3b1d42ee28fd8500cc0557a0e60fdffb778
 Та не з москалями,
 Бо москалі — чужі люде,
